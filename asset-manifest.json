@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Marvel-PWA/static/css/main.6d31122a.css",
+    "main.js": "/Marvel-PWA/static/js/main.1b87c3b5.js",
+    "static/js/377.3a9fb272.chunk.js": "/Marvel-PWA/static/js/377.3a9fb272.chunk.js",
+    "service-worker.js": "/Marvel-PWA/service-worker.js",
+    "index.html": "/Marvel-PWA/index.html",
+    "main.6d31122a.css.map": "/Marvel-PWA/static/css/main.6d31122a.css.map",
+    "main.1b87c3b5.js.map": "/Marvel-PWA/static/js/main.1b87c3b5.js.map",
+    "377.3a9fb272.chunk.js.map": "/Marvel-PWA/static/js/377.3a9fb272.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d31122a.css",
+    "static/js/main.1b87c3b5.js"
+  ]
+}
